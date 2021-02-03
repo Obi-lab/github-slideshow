@@ -1,0 +1,1 @@
+printef(“hello Amoshe")
